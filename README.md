@@ -1,4 +1,4 @@
-# Puerto Vallarta Vacation Rental
+# Puerto Vallarta Amapas Vacation Rental
 
 A local's guide to Puerto Vallarta for Claude, plus a direct line to one specific place to stay: the Amapas 353 condo on the Amapas hillside in the Zona Romántica, one block from Los Muertos Beach.
 
