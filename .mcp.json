@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "amapas": {
+      "type": "http",
+      "url": "https://claude.amapas353.com/mcp"
+    }
+  }
+}

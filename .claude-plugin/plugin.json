@@ -1,0 +1,19 @@
+{
+  "name": "puerto-vallarta-amapas",
+  "displayName": "Puerto Vallarta Vacation Rental",
+  "version": "1.0.0",
+  "description": "Puerto Vallarta trip planning from a local's point of view, plus availability, itemized prices and reservation requests for the Amapas 353 condo in the Zona Romántica.",
+  "author": {
+    "name": "Bradley Robinson",
+    "email": "privacy@amapas353.com",
+    "url": "https://amapas353.com"
+  },
+  "homepage": "https://amapas353.com/claude",
+  "repository": "https://github.com/brarob100/amapas-claude-skill",
+  "license": "LicenseRef-AllRightsReserved",
+  "keywords": ["puerto-vallarta", "travel", "vacation-rental", "mexico", "zona-romantica"],
+  "documentationUrl": "https://amapas353.com/claude",
+  "supportUrl": "https://amapas353.com/ask",
+  "privacyPolicyUrl": "https://amapas353.com/privacy",
+  "termsOfServiceUrl": "https://amapas353.com/terms"
+}
